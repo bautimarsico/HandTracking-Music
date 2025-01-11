@@ -1,2 +1,2 @@
-# HandTrackin-Music
+# HandTracking-Music
 Making music with yours hands!
